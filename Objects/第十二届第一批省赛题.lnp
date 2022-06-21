@@ -1,0 +1,6 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\iic.obj",
+".\Objects\onewire.obj" 
+TO ".\Objects\第十二届第一批省赛题" 
+PRINT(".\Listings\第十二届第一批省赛题.m51")
